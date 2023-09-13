@@ -42,6 +42,12 @@
         width: 100%;
         text-align: center;
     }
+    .navbar .iconDiv.search{
+        position: unset;
+    }
+    .navbar .container-fluid .nav-item{
+        
+    }
 }
 .navbar .iconDiv{
     position: absolute;
@@ -57,7 +63,7 @@
     overflow: hidden;
 }
 .home .content{
-    background-image: url('./img/rectangle-6.png');
+    background-image: url('../img/rectangle-6.png');
     background-size: cover;
     position: absolute;
     top: 0;
